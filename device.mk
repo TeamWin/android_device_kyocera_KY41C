@@ -18,11 +18,7 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@3.0-service
 
 PRODUCT_VENDOR_PROPERTIES += \
-<<<<<<< HEAD
-    ro.vendor.keymaster.version=3.0
-=======
     ro.vendor.keymaster.version=3.0 \
- 	ro.hardware.keystore_desede=true \
- 	ro.hardware.keystore=software \
- 	ro.hardware.gatekeeper=software
->>>>>>> 1a7d354 (Fix formatting in device.mk for keymaster version)
+    ro.hardware.keystore_desede=true \
+    ro.hardware.keystore=software \
+    ro.hardware.gatekeeper=software
