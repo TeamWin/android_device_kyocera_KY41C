@@ -2,7 +2,8 @@
 # Android device tree for KYOCERA KY-41C (KY-41C)
 
 ## Contributors
- -	[Yoshinobu Date](https://github.com/yoshi3jp) 
+ - [Yoshinobu Date](https://github.com/yoshi3jp) - Device Owner, Tester, Co-Maintainer
+ - [SavedByLight](https://github.com/SavedByLight) - Maintainer
 
 ```
 #
